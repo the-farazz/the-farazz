@@ -39,10 +39,10 @@
 ### 📂 Featured Projects
 <p align="center">
   <a href="https://github.com/the-farazz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=the-farazz&repo=HR-Automation-System&theme=radical" />
+    <img src="https://via.placeholder.com/400x200.png?text=HR+Automation+System" />
   </a>
   <a href="https://github.com/the-farazz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=the-farazz&repo=ERP-Development&theme=radical" />
+    <img src="https://via.placeholder.com/400x200.png?text=HR+Automation+System" />
   </a>
 </p>
 
