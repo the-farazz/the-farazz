@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Faraz Alam!</h1>
-<h3 align="center">🚀 A passionate Frontend Developer from Pakistan.</h3>
+<h3 align="center">🚀 A passionate Software Engineer.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=the-farazz&label=Profile%20views&color=brightgreen&style=flat-square" alt="profile views" />
@@ -14,7 +14,7 @@
 ---
 
 ### 🎨 About Me
-- 🌟 **Currently**: Junior Developer at **Karsaaz Solutions**, working on **ERP Systems**.  
+- 🌟 **Currently**: Front End Developer at **Karsaaz Solutions**, working on an **ERP Systems**.  
 - 💡 **Learning**: Full-stack development with **FastAPI**, **Redux**, and **TypeScript**.  
 - 👯 **Looking to collaborate on**: ReactJS & NextJS projects.  
 - 💬 **Ask me about**: Frontend development, responsive UI, and state management.  
@@ -39,10 +39,13 @@
 ### 📂 Featured Projects
 <p align="center">
   <a href="https://github.com/the-farazz">
-    <img src="https://via.placeholder.com/400x200.png?text=HR+Automation+System" />
+    <p>Entrprise Resource Planning - ERP</p>
   </a>
   <a href="https://github.com/the-farazz">
-    <img src="https://via.placeholder.com/400x200.png?text=HR+Automation+System" />
+     <p>HR Automation System</p>
+  </a>
+    <a href="https://github.com/the-farazz">
+     <p>Franchise Management System</p>
   </a>
 </p>
 
@@ -76,11 +79,12 @@
 ---
 
 ### 🏆 Achievements & Certifications
-- 🏅 **ReactJS Bootcamp** - Jawan Pakistan  
-- 🏅 **Frontend Development Course** - DecoTech  
-- 🏅 **Backend Development Course** - DevTown  
+- 🏅 **Frontend Development Course** - Jawan Pakistan  
+- 🏅 **Backend Development Course** - DecoTech  
+- 🏅 **ReactJS Bootcamp** - DevTown  
 
 ---
 
 ### 🌟 Fun Fact
-When I’m not coding, I’m probably strategizing my next **cricket match win** or binging the latest **tech documentaries**! 🏏📺
+When I’m not coding, I’m probably hitting the gym, exploring new fitness routines, or catching up on the latest tech documentaries! 💪📺
+
