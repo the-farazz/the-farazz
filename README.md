@@ -38,13 +38,13 @@
 
 ### 📂 Featured Projects
 <p align="center">
-   <a href="https://github.com/the-farazz/ERP-Development">
+   <a href="https://github.com/the-farazz">
      <p>🛠️ <strong>Enterprise Resource Planning (ERP)</strong>: Building responsive and efficient interfaces for enterprise systems.</p>
    </a>
-   <a href="https://github.com/the-farazz/HR-Automation-System">
+   <a href="https://github.com/the-farazz">
      <p>🛠️ <strong>HR Automation System</strong>: Enhanced workforce management through seamless UI.</p>
    </a>
-   <a href="https://github.com/the-farazz/Franchise-Management-System">
+   <a href="https://github.com/the-farazz">
      <p>🛠️ <strong>Franchise Management System</strong>: Simplifyied franchise workflows with ReactJS and TailwindCSS.</p>
    </a>
 </p>
