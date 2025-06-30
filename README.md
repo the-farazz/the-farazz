@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Faraz Alam!</h1>
-<h3 align="center">🚀 A passionate Software Engineer.</h3>
+<h3 align="center">🚀 A Passionate Software Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=the-farazz&label=Profile%20views&color=brightgreen&style=flat-square" alt="profile views" />
@@ -14,39 +14,39 @@
 ---
 
 ### 🎨 About Me
-- 🌟 **Currently**: Front End Developer at **Karsaaz Solutions**, working on an **ERP Systems**.  
-- 💡 **Learning**: Full-stack development with **FastAPI**, **Redux**, and **TypeScript**.  
-- 👯 **Looking to collaborate on**: ReactJS & NextJS projects.  
-- 💬 **Ask me about**: Frontend development, responsive UI, and state management.  
+- 🌟 **Current Role**: Front End Developer at **Karsaaz Solutions**, working on **Enterprise Resource Planning (ERP) Systems**.  
+- 💡 **Skills & Learning**: Full-stack development with **FastAPI**, **Redux**, **TypeScript**, and modern web technologies.  
+- 👯 **Open to Collaborate**: Building scalable ReactJS & NextJS projects.  
+- 💬 **What I Do**: Crafting responsive, user-friendly UIs and optimizing state management.  
 - 🌍 **Portfolio**: [farazalamportfolio.vercel.app](https://farazalamportfolio.vercel.app)  
-- 📫 **Contact me**: farazalam706@gmail.com  
+- 📫 **Contact**: [farazalam706@gmail.com](mailto:farazalam706@gmail.com)  
 
 ---
 
-### 💻 Tech Stack
+### 💻 Core Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/ReactJS-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-%230075C4.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/ReactJS-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="ReactJS" />
+  <img src="https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/FastAPI-%230075C4.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
 ### 📂 Featured Projects
 <p align="center">
-  <a href="https://github.com/the-farazz">
-    <p>Entrprise Resource Planning - ERP</p>
-  </a>
-  <a href="https://github.com/the-farazz">
-     <p>HR Automation System</p>
-  </a>
-    <a href="https://github.com/the-farazz">
-     <p>Franchise Management System</p>
-  </a>
+   <a href="https://github.com/the-farazz/ERP-Development">
+     <p>🛠️ <strong>Enterprise Resource Planning (ERP)</strong>: Building responsive and efficient interfaces for enterprise systems.</p>
+   </a>
+   <a href="https://github.com/the-farazz/HR-Automation-System">
+     <p>🛠️ <strong>HR Automation System</strong>: Enhanced workforce management through seamless UI.</p>
+   </a>
+   <a href="https://github.com/the-farazz/Franchise-Management-System">
+     <p>🛠️ <strong>Franchise Management System</strong>: Simplifyied franchise workflows with ReactJS and TailwindCSS.</p>
+   </a>
 </p>
 
 ---
@@ -63,16 +63,16 @@
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/the-farazz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/the_farazzz" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:farazalam706@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/the-farazz" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -86,5 +86,4 @@
 ---
 
 ### 🌟 Fun Fact
-When I’m not coding, I’m probably hitting the gym, exploring new fitness routines, or catching up on the latest tech documentaries! 💪📺
-
+When I’m not coding, I’m exploring new fitness routines at the gym or catching up on the latest tech documentaries! 💪📺
