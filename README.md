@@ -1,9 +1,9 @@
 <div align="center">
 
   # Faraz Alam
-  ### Software Engineer & Full-Stack Developer
+  ### Software Engineer · Full-Stack Web Architect
   
-  Building offline-first POS systems, high-converting platforms, and scalable web applications.  
+  Building responsive web applications, high-converting platforms, and offline-first POS systems.  
   Based in Karachi, Pakistan • Software Developer at **Karsaaz Entire Business Solutions**
 
   <br/>
@@ -29,11 +29,16 @@
 ---
 
 ### About Me
-- **Current Role**: Software Developer at **Karsaaz Entire Business Solutions (EBS)**.
-- **Education**: BS in Computer Science from **University of Karachi (UBIT)**.
-- **Specialization**: Building offline-capable **Hybrid POS systems**, high-converting **D2C E-Commerce platforms**, and scalable **Enterprise ERP/CRM** solutions.
-- **Tech Stack**: Next.js, React.js, TypeScript, Python, Tailwind CSS, Supabase, PostgreSQL, SQLite, and REST APIs.
-- **Official Portfolio**: [thefarazalam.com](https://www.thefarazalam.com)
+
+I'm a Software Engineer with a BS in Computer Science from the **University of Karachi (UBIT)**, currently working as a Software Developer at **Karsaaz Entire Business Solutions**.
+
+I specialize in building offline-first POS architectures, production D2C e-commerce platforms, and scalable web applications. My core stack centers on **Next.js, React.js, TypeScript, and Python**, with hands-on experience designing robust APIs, managing global state, and architecting administrative systems that streamline business operations.
+
+- **Current Role**: Software Developer at Karsaaz Entire Business Solutions
+- **Education**: BS in Computer Science, University of Karachi (UBIT)
+- **Focus Areas**: Full-Stack Web Development, Offline-First Systems, D2C E-Commerce, ERP/CRM Solutions
+- **Portfolio**: [thefarazalam.com](https://www.thefarazalam.com)
+- **Email**: [farazalam706@gmail.com](mailto:farazalam706@gmail.com)
 - **WhatsApp**: [+92 327 3129464](https://wa.me/923273129464)
 
 ---
@@ -43,10 +48,11 @@
 #### [Salam Jewellers — Hybrid POS & ERP System](https://pos.salamjewellers.com)
 > **Offline-first dual-runtime POS architecture** combining a Next.js web dashboard with a Python desktop client.
 > 
-> `Next.js` `Python` `Supabase (PostgreSQL)` `SQLite` `Tailwind CSS` `Node.js`
+> `Next.js` `Python` `Supabase (PostgreSQL)` `SQLite` `Tailwind CSS` `Node.js` `ReportLab`
 
-* **Offline-First Billing**: Local SQLite database with auto-sync to Supabase PostgreSQL, ensuring zero billing interruption during internet outages.
-* **Jewelry Commerce**: Built inventory management, tiered gold/silver pricing, customer credit (*Udhaar*) tracking, and automated WhatsApp PDF invoices via ReportLab.
+* **Offline-First Billing**: Local SQLite storage with automatic cloud synchronization to Supabase PostgreSQL, ensuring zero billing downtime during internet outages.
+* **Jewelry Commerce Operations**: Built real-time inventory management, tiered gold/silver pricing, customer credit (*Udhaar*) tracking, and payment reconciliation workflows.
+* **Automated Invoicing**: Automated PDF invoice generation with ReportLab and enabled instant digital invoice dispatch to customers via WhatsApp upon checkout.
 * 🔗 **Live Website**: [pos.salamjewellers.com ↗](https://pos.salamjewellers.com)
 
 ---
@@ -54,10 +60,11 @@
 #### [Al-Fatima Empire — D2C E-Commerce Platform](https://www.alfatimaempire.com)
 > **Full-scale D2C e-commerce platform** engineered for high-converting shopping journeys and frictionless checkout.
 > 
-> `Next.js` `React.js` `Redux Toolkit` `Supabase` `Tailwind CSS` `Courier APIs`
+> `Next.js` `React.js` `TypeScript` `Redux Toolkit` `Supabase` `Tailwind CSS` `Courier APIs`
 
-* **Dynamic Catalog & Cart**: Engineered multi-variant product architecture, real-time stock indicators, and centralized Redux Toolkit state.
-* **Direct Ordering & Admin**: Integrated WhatsApp direct checkout alongside standard COD, backed by an administrative portal for inventory & campaign management.
+* **Catalog & Cart Architecture**: Built dynamic product catalogs with multi-level variants, real-time stock indicators, interactive cart interactions, and streamlined checkout.
+* **Centralized Admin Portal**: Developed an administrative back-office for managing products, inventory, orders, promotional campaigns, and WhatsApp direct inquiries.
+* **Hybrid Ordering**: Integrated Cash on Delivery (COD) workflows alongside instant WhatsApp direct ordering.
 * 🔗 **Live Website**: [alfatimaempire.com ↗](https://www.alfatimaempire.com)
 
 ---
@@ -67,8 +74,9 @@
 > 
 > `Next.js` `TypeScript` `Supabase (RLS)` `Tailwind CSS` `GA4` `Technical SEO`
 
-* **Visitor Intelligence**: Engineered custom visitor tracking using Vercel geolocation headers and identity stitching for lead conversion insights.
-* **#1 Google Ranking**: Implemented structured JSON-LD schemas and dynamic metadata, securing the top Google ranking for target brand queries.
+* **Visitor Intelligence**: Engineered custom visitor tracking using Vercel geolocation headers and persistent cookies to monitor visitor locations, repeat visits, and session activity.
+* **Identity Stitching**: Implemented custom identity stitching logic connecting anonymous visitor journeys with contact inquiries prior to lead conversion.
+* **#1 Google Ranking**: Integrated Google Analytics 4, Search Console, Supabase RLS, and structured JSON-LD schema markup, achieving the **#1 Google ranking** for the target brand query.
 * 🔗 **Live Website**: [nousheensabaalam.com ↗](https://www.nousheensabaalam.com)
 
 ---
@@ -76,9 +84,9 @@
 #### [Enterprise Resource Planning (ERP) — Karsaaz EBS](https://www.thefarazalam.com/#projects)
 > **Enterprise-grade operational modules** built for corporate workflow automation and granular access control.
 > 
-> `Next.js` `FastAPI` `PostgreSQL` `Redux Toolkit` `Material UI`
+> `Next.js` `FastAPI` `PostgreSQL` `Redux Toolkit` `Material UI` `REST APIs`
 
-* Contributed to CRM and ERP modules including user management, role-based authorization (RBAC), and FastAPI service integration.
+* Contributed to ERP and CRM interfaces, including user management, role-based authorization (RBAC), and FastAPI service integration with centralized Redux state.
 * 🔗 **Live Website**: [thefarazalam.com/#projects ↗](https://www.thefarazalam.com/#projects)
 
 ---
@@ -89,7 +97,6 @@
 > Dynamic corporate platform with CMS-driven content management via admin dashboard.
 > 
 > `Next.js` `Tailwind CSS` `Material UI`
-
 * 🔗 **Live Website**: [karsaazebs.com ↗](https://karsaazebs.com)
 
 ---
@@ -97,8 +104,7 @@
 #### [Karsaaz EBS Fintech](https://karsaazsolutions.com/)
 > Dynamic fintech web platform with administrative control panel for non-technical team management.
 > 
-> `Next.js` `Tailwind CSS`
-
+> `Next.js` `Tailwind CSS` `Material UI`
 * 🔗 **Live Website**: [karsaazsolutions.com ↗](https://karsaazsolutions.com/)
 
 ---
@@ -106,8 +112,7 @@
 #### [Karsaaz Wallet](https://karsaazwallet.com)
 > Digital wallet platform featuring responsive financial UI and CMS-controlled dynamic content.
 > 
-> `Next.js` `Tailwind CSS`
-
+> `Next.js` `Tailwind CSS` `Material UI`
 * 🔗 **Live Website**: [karsaazwallet.com ↗](https://karsaazwallet.com)
 
 ---
@@ -115,8 +120,7 @@
 #### [Karsaaz Agent Platform](https://www.karsaazagent.com)
 > Showcase platform for AI-powered agent solutions and business workflow automation.
 > 
-> `Next.js` `Tailwind CSS`
-
+> `Next.js` `Tailwind CSS` `Material UI`
 * 🔗 **Live Website**: [karsaazagent.com ↗](https://www.karsaazagent.com)
 
 ---
@@ -125,27 +129,55 @@
 > Modern visual portfolio showcasing creative photography work, client bookings, and media galleries.
 > 
 > `Next.js` `Tailwind CSS`
-
 * 🔗 **Live Website**: [thefsvisuals.com ↗](https://www.thefsvisuals.com)
 
 ---
 
-### Core Tech Stack
+### Professional Experience
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS" />
-  <img src="https://img.shields.io/badge/ReactJS-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="ReactJS" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/FastAPI-%230075C4.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+#### Karsaaz Entire Business Solutions — Software Developer
+*Karachi, Pakistan · Jan. 2025 – Present*
+
+- Develop and maintain high-performance web platforms across ERP, fintech, corporate portals, and AI-agent workflows using **Next.js, Tailwind CSS, Material UI, and REST APIs**.
+- Build dynamic administrative dashboards that enable non-technical business teams to publish and manage content independently.
+- Architect modular, reusable UI component libraries and collaborate closely with backend engineers for reliable API integrations.
+
+#### Xenasys Pvt. Ltd — Front-End Developer Intern
+*Karachi, Pakistan · Oct. 2024 – Dec. 2024*
+
+- Enhanced frontend modules for the **Zong Franchise Management System** using **ReactJS, Tailwind CSS, and Material UI**.
+- Contributed to an enterprise production application, ensuring responsive and consistent cross-browser user experiences.
+
+#### DevLogix — Front-End Developer Intern
+*Karachi, Pakistan · Jul. 2024 – Oct. 2024*
+
+- Built responsive interfaces for an internal **Human Resource (HR) Automation System** using **ReactJS, Tailwind CSS, and Material UI**.
+- Contributed to requirement gathering, SRS documentation, and agile frontend implementation throughout the project lifecycle.
+
+---
+
+### Technical Skills
+
+- **Languages**: JavaScript (ES6+), TypeScript, Python, HTML5, CSS3  
+- **Frameworks & Libraries**: React.js, Next.js, Node.js, Redux / Redux Toolkit, Tailwind CSS, Material UI, Bootstrap  
+- **Backend & APIs**: REST APIs, FastAPI  
+- **Databases & Cloud**: PostgreSQL, Supabase, SQLite, MySQL, Vercel  
+- **Tools & Workflow**: Git, GitHub, Jira, VS Code, Agile / Scrum  
+- **AI & Productivity**: Google Antigravity, GitHub Copilot, ChatGPT, Claude, MCP (Model Context Protocol)
+
+---
+
+### Education & Certifications
+
+- **Bachelor of Science in Computer Science (BSCS)** — University of Karachi (UBIT)  
+  *Feb. 2021 – Apr. 2024*
+- **Intermediate (Pre-Engineering)** — Govt. Dehli College, Karachi  
+  *Apr. 2017 – Apr. 2019*
+
+- 🏅 **Frontend Development Course** — Jawan Pakistan
+- 🏅 **Backend Development Course** — DecoTech
+- 🏅 **ReactJS Bootcamp** — DevTown
+- 📄 **Verified Credentials**: [Google Drive Archive ↗](https://drive.google.com/drive/folders/1Bsev4PGvp2hsA6-dFwgIlHSoBkuKgdO9)
 
 ---
 
@@ -163,5 +195,5 @@
 ---
 
 <div align="center">
-  <sub>Crafted by <strong><a href="https://www.thefarazalam.com">Faraz Alam</a></strong> • Karachi, Pakistan</sub>
+  <sub>Crafted with passion by <strong><a href="https://www.thefarazalam.com">Faraz Alam</a></strong> • Karachi, Pakistan</sub>
 </div>
