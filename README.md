@@ -27,6 +27,16 @@
 </div>
 
 ---
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=the-farazz&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=the-farazz&theme=radical" alt="GitHub Streaks" valign="top" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=the-farazz&layout=compact&theme=radical&langs_count=8" alt="Top Languages" valign="top" />
+</p>
 
 ### About Me
 
@@ -179,17 +189,6 @@ I specialize in building offline-first POS architectures, production D2C e-comme
 - 🏅 **ReactJS Bootcamp** — DevTown
 - 📄 **Verified Credentials**: [Google Drive Archive ↗](https://drive.google.com/drive/folders/1Bsev4PGvp2hsA6-dFwgIlHSoBkuKgdO9)
 
----
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=the-farazz&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=the-farazz&theme=radical" alt="GitHub Streaks" valign="top" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=the-farazz&layout=compact&theme=radical&langs_count=8" alt="Top Languages" valign="top" />
-</p>
 ---
 
 <div align="center">
